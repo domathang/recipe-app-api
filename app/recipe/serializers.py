@@ -1,5 +1,4 @@
 from rest_framework import serializers
-from user.serializers import UserSerializer
 
 from core.models import Tag, Ingredient, Recipe
 
