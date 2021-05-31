@@ -1,5 +1,4 @@
 FROM python:3.9-alpine
-MAINTAINER Kwak Do-hyun Ltd
 
 ENV PYTHONUNBUFFERED 1
 
